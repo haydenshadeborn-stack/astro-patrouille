@@ -29,7 +29,7 @@
 
 **Tâches :**
 
-- [ ] Écrire la discussion radio et les dialogues qui suivent le niveau
+- [x] Écrire la discussion radio et les dialogues qui suivent le niveau : première version dans `data/prologue.js`, à relire (pas encore chargée par le jeu)
 - [ ] Afficher des dialogues **pendant** le vol, sans arrêter l'action (aujourd'hui, ils n'existent que dans le panneau parchemin, hors combat : `js/scenes.js`)
 - [ ] Créer la rencontre « prologue » (`js/combat.js`), lancée par un nouveau voyage, avec un vaisseau au maximum de sa puissance
 - [ ] Perdre toute sa coque pendant le prologue mène à la suite du scénario, sans effacer le voyage
@@ -40,7 +40,7 @@
 - [ ] Dernier échange avec le père pendant le boss : il presse Kaimana de partir, de plus en plus fort
 - [ ] Coupure radio des deux amis (son et affichage)
 - [ ] Mettre en scène la perte de puissance avant l'arrivée sur la carte
-- [ ] Réécrire ou intégrer la scène « Le départ » (`INTRO` dans `data/evenements.js`)
+- [ ] Remplacer la scène « Le départ » (`INTRO` dans `data/evenements.js`) par « La carte de grand-père » (`data/prologue.js`)
 - [ ] Sauvegarder l'avancée dans le prologue
 - [ ] Retenir que le prologue a été vu, et proposer de le passer au voyage suivant
 - [x] **Images :** la planète engloutie, avant et après (`assets/fond-prologue-avant.jpg`, `assets/fond-prologue-apres.jpg`)
@@ -80,6 +80,10 @@
 
 - Ordre des coupures : Leilani d'abord, par surprise, puis Oisin, par choix. Il ne reste que la voix du père, face au boss.
 - Retour possible des amis pendant le voyage : la navette de Leilani au détour d'une étoile, Oisin vieilli parce que le temps n'a pas passé de la même façon pour lui.
+- Douze ans : le temps que Keoni a mis à construire le vaisseau. Sous la console, il a gravé « Pour qu'elle parte. »
+- Si la coque est détruite, Keoni prend les commandes à distance pour faire monter le vaisseau : Kaimana survit sans avoir choisi de fuir.
+- Le grand-père cherchait l'Étoile-objectif. Kaimana espère que ses amis iront aussi à l'est.
+- Avant le boss, la coque ne pourrait pas tomber à zéro, pour que les coupures radio aient toujours lieu.
 - La chanson d'Oisin pourrait ressembler à l'événement « Un chant dans le vide ».
 
 ## Mis de côté
