@@ -16,13 +16,11 @@
 **Décidé :**
 
 - **À la radio : le père de Kaimana et deux amis.** Les dialogues du niveau sont leur discussion.
+- **La radio des deux amis se coupe.** On ne sait pas s'ils ont survécu : le suspense est gardé.
+- **Fin du niveau : un boss auquel on ne peut pas faire de dégâts.** Le père insiste à la radio pour que Kaimana quitte la planète tant qu'elle le peut. Jamais de phrase du type « tu ne peux pas le blesser », qui couperait l'immersion.
 - **Le prologue peut être passé une fois vu.**
 - **L'échec fait partie de l'histoire.** Le joueur ne parviendra pas à sauver les proches de Kaimana. L'échec au prologue mène seulement à la suite du scénario : ce n'est jamais une vraie défaite de la partie.
 - **Le vaisseau est puissant pendant le prologue**, pour montrer au joueur la puissance qu'il peut obtenir. L'échec justifie en partie sa perte de puissance ensuite.
-
-**Pistes (à confirmer) :**
-
-- Le niveau se terminerait par un **boss auquel on ne peut pas faire de dégâts**.
 
 **Tâches :**
 
@@ -30,7 +28,9 @@
 - [ ] Afficher des dialogues **pendant** le vol, sans arrêter l'action (aujourd'hui, ils n'existent que dans le panneau parchemin, hors combat : `js/scenes.js`)
 - [ ] Créer la rencontre « prologue » (`js/combat.js`), lancée par un nouveau voyage, avec un vaisseau au maximum de sa puissance
 - [ ] Perdre toute sa coque pendant le prologue mène à la suite du scénario, sans effacer le voyage
-- [ ] Boss insensible aux dégâts, si la piste est retenue
+- [ ] Boss insensible aux dégâts
+- [ ] Dernier échange avec le père pendant le boss : il presse Kaimana de partir, de plus en plus fort
+- [ ] Coupure radio des deux amis (son et affichage)
 - [ ] Mettre en scène la perte de puissance avant l'arrivée sur la carte
 - [ ] Réécrire ou intégrer la scène « Le départ » (`INTRO` dans `data/evenements.js`)
 - [ ] Sauvegarder l'avancée dans le prologue
@@ -42,8 +42,7 @@
 **À décider :**
 
 - [ ] Nom et caractère du père et des deux amis
-- [ ] Que deviennent les deux amis ?
-- [ ] Comment le joueur comprend-il qu'il faut fuir le boss plutôt que le battre ?
+- [ ] Comment se déclenche la fuite face au boss ? (après un temps, à la fin du dialogue, ou par un geste du joueur)
 
 ## Mis de côté
 
