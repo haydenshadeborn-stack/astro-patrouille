@@ -20,7 +20,7 @@
 - **Fin du niveau : un boss auquel on ne peut pas faire de dégâts.** Le père insiste à la radio pour que Kaimana quitte la planète tant qu'elle le peut. Jamais de phrase du type « tu ne peux pas le blesser », qui couperait l'immersion.
 - **Les tirs sont absorbés par le boss** : ils s'y dissolvent comme de l'encre dans l'eau, sans éclat ni son d'impact, et le boss n'a pas de barre de vie. L'image fait comprendre qu'il faut fuir, sans le dire.
 - **La fuite est un geste du joueur** : le père insiste, et c'est le joueur qui choisit de faire demi-tour vers le ciel. S'il s'obstine, le boss finit par détruire sa coque et le scénario continue quand même.
-- **Le geste de fuite** : maintenir la direction opposée au boss pendant environ 2 secondes. Le vaisseau résiste d'abord, puis se retourne, et la voix du père faiblit à mesure qu'on s'éloigne. Relâcher avant la fin ramène face au boss : le joueur peut hésiter.
+- **Le geste de fuite** : maintenir la touche **haut** pendant environ 2 secondes, vers le ciel, en écho aux dernières paroles du père. Le vaisseau résiste d'abord, puis se retourne, et la voix du père faiblit à mesure qu'on s'éloigne. Relâcher avant la fin ramène face au boss : le joueur peut hésiter.
 - **Réplique du père** qui donne l'indication sans couper l'immersion : *« Regarde le ciel, Kaimana. Pas moi. Le ciel. »*
 - **Le prologue peut être passé une fois vu.**
 - **L'échec fait partie de l'histoire.** Le joueur ne parviendra pas à sauver les proches de Kaimana. L'échec au prologue mène seulement à la suite du scénario : ce n'est jamais une vraie défaite de la partie.
@@ -33,7 +33,8 @@
 - [ ] Créer la rencontre « prologue » (`js/combat.js`), lancée par un nouveau voyage, avec un vaisseau au maximum de sa puissance
 - [ ] Perdre toute sa coque pendant le prologue mène à la suite du scénario, sans effacer le voyage
 - [ ] Boss insensible aux dégâts : tirs et laser absorbés (effet d'encre), pas de barre de vie
-- [ ] Geste de fuite du joueur (direction opposée au boss maintenue environ 2 secondes), au clavier comme au doigt
+- [ ] Geste de fuite du joueur : touche haut maintenue environ 2 secondes (au doigt : glisser vers le haut et maintenir)
+- [ ] Le prologue se joue toujours à l'horizontale : en vertical, « haut » mènerait vers le boss
 - [ ] Voix du père qui faiblit pendant la fuite
 - [ ] Dernier échange avec le père pendant le boss : il presse Kaimana de partir, de plus en plus fort
 - [ ] Coupure radio des deux amis (son et affichage)
