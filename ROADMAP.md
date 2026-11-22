@@ -42,7 +42,8 @@
 - [ ] Réécrire ou intégrer la scène « Le départ » (`INTRO` dans `data/evenements.js`)
 - [ ] Sauvegarder l'avancée dans le prologue
 - [ ] Retenir que le prologue a été vu, et proposer de le passer au voyage suivant
-- [ ] **Images :** la planète engloutie (décor)
+- [x] **Images :** la planète engloutie, avant et après (`assets/fond-prologue-avant.jpg`, `assets/fond-prologue-apres.jpg`)
+- [ ] Passer d'un décor à l'autre en fondu pendant le niveau, en gardant le ciel toujours visible en haut
 - [x] **Images :** les portraits du père et des deux amis (`assets/equipage/keoni.jpg`, `leilani.jpg`, `oisin.jpg`)
 - [ ] **Images :** le boss du prologue, s'il est différent de ceux qui existent
 

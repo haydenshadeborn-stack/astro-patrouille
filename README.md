@@ -49,7 +49,7 @@ Ouvre `data/evenements.js` et copie un bloc de la liste `EVENEMENTS`. Le mode d'
 
 ## Crédits
 
-**Images** : décor, vaisseau, boss « Le Veilleur des Abysses », portraits de l'équipage et des personnages du prologue fournis par l'auteur du jeu.
+**Images** : décors, vaisseau, boss « Le Veilleur des Abysses », portraits de l'équipage et des personnages du prologue fournis par l'auteur du jeu.
 
 **Sons et musiques** (tous sous licence [CC0](https://creativecommons.org/publicdomain/zero/1.0/), domaine public — crédit non obligatoire, mais mérité) :
 
