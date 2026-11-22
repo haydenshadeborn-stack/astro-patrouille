@@ -43,7 +43,7 @@
 - [ ] Sauvegarder l'avancée dans le prologue
 - [ ] Retenir que le prologue a été vu, et proposer de le passer au voyage suivant
 - [ ] **Images :** la planète engloutie (décor)
-- [ ] **Images :** les portraits du père et des deux amis
+- [x] **Images :** les portraits du père et des deux amis (`assets/equipage/keoni.jpg`, `leilani.jpg`, `oisin.jpg`)
 - [ ] **Images :** le boss du prologue, s'il est différent de ceux qui existent
 
 **Personnages du prologue :**
