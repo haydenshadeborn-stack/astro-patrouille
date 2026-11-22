@@ -18,6 +18,7 @@
 - **À la radio : le père de Kaimana et deux amis.** Les dialogues du niveau sont leur discussion.
 - **La radio des deux amis se coupe.** On ne sait pas s'ils ont survécu : le suspense est gardé.
 - **Fin du niveau : un boss auquel on ne peut pas faire de dégâts.** Le père insiste à la radio pour que Kaimana quitte la planète tant qu'elle le peut. Jamais de phrase du type « tu ne peux pas le blesser », qui couperait l'immersion.
+- **Le boss : la Marée Pâle** (nom à valider), une créature colossale au masque d'os sans yeux, entre méduse et baleine.
 - **Les tirs sont absorbés par le boss** : ils s'y dissolvent comme de l'encre dans l'eau, sans éclat ni son d'impact, et le boss n'a pas de barre de vie. L'image fait comprendre qu'il faut fuir, sans le dire.
 - **La fuite est un geste du joueur** : le père insiste, et c'est le joueur qui choisit de faire demi-tour vers le ciel. S'il s'obstine, le boss finit par détruire sa coque et le scénario continue quand même.
 - **Le geste de fuite** : maintenir la touche **haut** pendant environ 2 secondes, vers le ciel, en écho aux dernières paroles du père. Le vaisseau résiste d'abord, puis se retourne, et la voix du père faiblit à mesure qu'on s'éloigne. Relâcher avant la fin ramène face au boss : le joueur peut hésiter. Le geste ne compte **qu'après la réplique du père**, et seulement si **le vaisseau est déjà le plus haut possible sur l'écran**.
@@ -45,7 +46,7 @@
 - [x] **Images :** la planète engloutie, avant et après (`assets/fond-prologue-avant.jpg`, `assets/fond-prologue-apres.jpg`)
 - [ ] Passer d'un décor à l'autre en fondu pendant le niveau, en gardant le ciel toujours visible en haut
 - [x] **Images :** les portraits du père et des deux amis (`assets/equipage/keoni.jpg`, `leilani.jpg`, `oisin.jpg`)
-- [ ] **Images :** le boss du prologue, s'il est différent de ceux qui existent
+- [x] **Images :** le boss du prologue (`assets/boss-maree-pale.png`, déjà détouré, tourné vers la gauche)
 
 **Personnages du prologue :**
 
