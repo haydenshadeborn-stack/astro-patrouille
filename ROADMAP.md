@@ -9,18 +9,19 @@
 **Déroulé voulu :**
 
 1. **Le jeu commence par un niveau en vaisseau.** Pendant ce niveau, des dialogues font comprendre que la protagoniste fuit sa planète, en train d'être engloutie.
-2. **Elle tente de récupérer ses proches, sans y parvenir**, avant de fuir la planète.
+2. **Objectif donné au joueur : aller chercher le père de Kaimana** avant de fuir la planète. Elle n'y parvient pas.
 3. **Après ce premier niveau, différents dialogues** font la transition.
 4. **Arrivée sur la carte de la galaxie**, là où le jeu commence actuellement.
 
 **Décidé :**
 
+- **À la radio : le père de Kaimana et deux amis.** Les dialogues du niveau sont leur discussion.
+- **Le prologue peut être passé une fois vu.**
 - **L'échec fait partie de l'histoire.** Le joueur ne parviendra pas à sauver les proches de Kaimana. L'échec au prologue mène seulement à la suite du scénario : ce n'est jamais une vraie défaite de la partie.
 - **Le vaisseau est puissant pendant le prologue**, pour montrer au joueur la puissance qu'il peut obtenir. L'échec justifie en partie sa perte de puissance ensuite.
 
 **Pistes (à confirmer) :**
 
-- Les dialogues du niveau seraient une **discussion radio avec des amis et/ou de la famille** de Kaimana.
 - Le niveau se terminerait par un **boss auquel on ne peut pas faire de dégâts**.
 
 **Tâches :**
@@ -33,15 +34,16 @@
 - [ ] Mettre en scène la perte de puissance avant l'arrivée sur la carte
 - [ ] Réécrire ou intégrer la scène « Le départ » (`INTRO` dans `data/evenements.js`)
 - [ ] Sauvegarder l'avancée dans le prologue
+- [ ] Retenir que le prologue a été vu, et proposer de le passer au voyage suivant
 - [ ] **Images :** la planète engloutie (décor)
-- [ ] **Images :** les portraits des proches de Kaimana
+- [ ] **Images :** les portraits du père et des deux amis
 - [ ] **Images :** le boss du prologue, s'il est différent de ceux qui existent
 
 **À décider :**
 
-- [ ] Qui sont les proches de Kaimana, et combien ?
+- [ ] Nom et caractère du père et des deux amis
+- [ ] Que deviennent les deux amis ?
 - [ ] Comment le joueur comprend-il qu'il faut fuir le boss plutôt que le battre ?
-- [ ] Le prologue se rejoue-t-il à chaque nouveau voyage, ou peut-on le passer une fois vu ? (avec la mort définitive, il reviendrait souvent)
 
 ## Mis de côté
 
